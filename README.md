@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+- 🔭 I’m currently working on creating something unique...
+- 🌱 I’m currently learning many programming languages...
 <!--
 **US-Cyber/US-Cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
